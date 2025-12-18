@@ -94,34 +94,3 @@ To access Sentient, head over to [our website.](https://sentient.existence.techn
 ### 🔒 Self-Hostable
 The entire platform is open-source and can be self-hosted and configured to run fully locally, ensuring your data stays private. [Check the relevant docs for more info.](https://sentient-2.gitbook.io/docs/getting-started/running-sentient-from-source-self-host)
 
----
-
-## :wave: Contributing
-
-<a href="https://github.com/existence-master/Sentient/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=existence-master/Sentient" />
-</a>
-
-Contributions are always welcome!
-
-See the [contributing guide](https://github.com/existence-master/Sentient/blob/master/CONTRIBUTING.md) for ways to get started.
-
-<!-- Code of Conduct -->
-
-### :scroll: Code of Conduct
-
-Please read the [code of conduct](https://github.com/existence-master/Sentient/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- License -->
-
-## :warning: License
-
-Distributed under the GNU AGPL License. See [LICENSE.txt](https://github.com/existence-master/Sentient/blob/master/LICENSE.txt) for details.
-
-<!-- Contact -->
-
-## :handshake: Contact
-
-[existence.sentient@gmail.com](mailto:existence.sentient@gmail.com)
-
-
