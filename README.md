@@ -124,28 +124,4 @@ Distributed under the GNU AGPL License. See [LICENSE.txt](https://github.com/exi
 
 [existence.sentient@gmail.com](mailto:existence.sentient@gmail.com)
 
-<!-- Official Team -->
 
-## :heavy_check_mark: Official Team
-
-<table>
-  <tr>
-     <td align="center">
-       <a href="https://github.com/itsskofficial">
-         <img src="https://avatars.githubusercontent.com/u/65887545?v=4?s=100" width="100px;" alt=""/>
-         <br />
-         <sub><b>itsskofficial (Sarthak)</b></sub>
-       </a>
-     </td>  
-     <td align="center">
-       <a href="https://github.com/kabeer2004">
-         <img src="https://avatars.githubusercontent.com/u/59280736?v=4" width="100px;" alt=""/>
-         <br />
-         <sub><b>kabeer2004</b></sub>
-       </a>
-     </td>  
-  </tr>
-</table>
-<br />
-
-![Powered By](./.github/assets/powered-by.png)
